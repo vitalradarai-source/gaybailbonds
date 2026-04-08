@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-lgbtq-community | what happens after an arrest in LGBTQ Community | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-lgbtq-community | what happens after an arrest in Lgbtq Community | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-lgbtq-community | how do bail bonds work in LGBTQ Community | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-lgbtq-community | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-lgbtq-community | how to get someone out of jail in LGBTQ Community | Release Process | ⬜ |
