@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-lgbtq-community | how much does a bail bondsman charge in LGBTQ Community | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-lgbtq-community | bail bond payment plan LGBTQ Community | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-lgbtq-community | jail booking process at County jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-lgbtq-community | how to find someone in jail LGBTQ Community | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-lgbtq-community | what to expect at arraignment Superior Court | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-lgbtq-community | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-lgbtq-community | warrant bail bonds LGBTQ Community | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-lgbtq-community | what happens if you miss court date LGBTQ Community | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-lgbtq-community | assault and battery bail bonds LGBTQ Community | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-lgbtq-community | theft and burglary bail bonds LGBTQ Community | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-lgbtq-community | how to choose a bail bondsman in LGBTQ Community | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-lgbtq-community | what does a bail bond cosigner do LGBTQ Community | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-lgbtq-community | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bail-bond-cost-lgbtq-community | how much does a bail bondsman charge in LGBTQ Community | Costs | ⬜ |
+| 2026-04-22 | Wed | bail-bond-payment-plan-lgbtq-community | bail bond payment plan LGBTQ Community | Payment Plans | ⬜ |
+| 2026-04-23 | Thu | jail-booking-process-lgbtq-community | jail booking process in LGBTQ Community | Jail Process | ⬜ |
+| 2026-04-24 | Fri | inmate-search-lgbtq-community | how to find someone in jail LGBTQ Community | Inmate Search | ⬜ |
+| 2026-04-25 | Sat | what-to-expect-arraignment-lgbtq-community | what to expect at arraignment in Los Angeles | Court Process | ⬜ |
+| 2026-04-26 | Sun | bail-hearing-lgbtq-community | bail hearing process in Los Angeles | Bail Hearing | ⬜ |
+| 2026-04-27 | Mon | warrant-bail-bonds-lgbtq-community | warrant bail bonds LGBTQ Community | Warrants | ⬜ |
+| 2026-04-28 | Tue | what-happens-miss-court-lgbtq-community | what happens if you miss court date LGBTQ Community | FTA | ⬜ |
+| 2026-04-29 | Wed | assault-bail-bonds-lgbtq-community | assault and battery bail bonds LGBTQ Community | Assault | ⬜ |
+| 2026-04-30 | Thu | theft-bail-bonds-lgbtq-community | theft and burglary bail bonds LGBTQ Community | Theft | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
