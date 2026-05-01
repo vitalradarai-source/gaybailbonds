@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | warrant-bail-bonds-lgbtq-community | warrant bail bonds LGBTQ Community | Warrants | ⬜ |
 | 2026-04-28 | Tue | what-happens-miss-court-lgbtq-community | what happens if you miss court date LGBTQ Community | FTA | ⬜ |
 | 2026-04-29 | Wed | assault-bail-bonds-lgbtq-community | assault and battery bail bonds LGBTQ Community | Assault | ⬜ |
-| 2026-04-30 | Thu | theft-bail-bonds-lgbtq-community | theft and burglary bail bonds LGBTQ Community | Theft | ⬜ |
+| 2026-04-30 | Thu | theft-bail-bonds-lgbtq-community | theft and burglary bail bonds LGBTQ Community | Theft | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
